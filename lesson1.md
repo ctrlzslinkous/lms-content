@@ -1,0 +1,19 @@
+---
+title: 'First Lesson of dbb'
+date: '2023-06-16'
+---
+
+# Lesson 1
+
+## Getting the Project Started
+
+### Create a New, Empty Game
+
+Go to the [Create a New Game](https://dotbigbang.com/game) page.
+
+1. Select **Empty Game**
+2. Profit.
+
+### Behold, an Empty Game!
+
+Let's start by looking at what the empty game actually starts with...
